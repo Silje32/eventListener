@@ -16,6 +16,9 @@ body {
 }
 h1 {
   color: orange;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 36px;
 }
 button {
   color: var(--white);
