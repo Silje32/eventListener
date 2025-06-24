@@ -6,6 +6,11 @@
   --white: white;
 }
 
+/* CSS RESET */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
 body {
   background-color: var(--beige);
 }
@@ -29,4 +34,9 @@ button {
   font-size: 18px;
   border-radius: 6px;
   padding: 10px 20px;
+}
+label {
+  color: var(--brown);
+  font-size: 16px;
+  margin-left: 50px;
 }
