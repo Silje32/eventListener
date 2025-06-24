@@ -29,7 +29,7 @@ button {
 #helloWorld {
   color: var(--white);
   background-color: var(--pink);
-  border-color: var(--orange);
+  border-color: var(--brown);
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 18px;
   border-radius: 6px;
