@@ -1,3 +1,13 @@
+:root {
+  --orange: orange;
+  --pink: #d99a9a;
+  --beige: #f6f6f1;
+  --brown: #242424;
+}
+
+body {
+  background-color: var(--beige);
+}
 h1 {
   color: orange;
 }
