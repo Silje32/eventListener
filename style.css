@@ -51,7 +51,11 @@ button {
 label {
   color: var(--brown);
   font-size: 16px;
-  margin-left: 50px;
+  margin-left: 610px;
 }
 input {
+  line-height: 2;
+  margin-bottom: 20px;
+  margin-left: 640px;
+  display: block;
 }
