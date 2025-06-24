@@ -3,6 +3,7 @@
   --pink: #d99a9a;
   --beige: #f6f6f1;
   --brown: #242424;
+  --white: white;
 }
 
 body {
@@ -10,4 +11,12 @@ body {
 }
 h1 {
   color: orange;
+}
+button {
+  color: var(--white);
+  background-color: var(--brown);
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  border-radius: 6px;
+  padding: 10px 20px;
 }
