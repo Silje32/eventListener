@@ -27,6 +27,7 @@ button {
   font-size: 18px;
   border-radius: 6px;
   padding: 10px 20px;
+  width: 150px;
   margin-bottom: 20px;
   display: block;
   margin-left: auto;
@@ -40,6 +41,7 @@ button {
   font-size: 18px;
   border-radius: 6px;
   padding: 10px 20px;
+  width: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -50,4 +52,6 @@ label {
   color: var(--brown);
   font-size: 16px;
   margin-left: 50px;
+}
+input {
 }
